@@ -19,3 +19,6 @@ To get started with the project, navigate to the DataScience-CP directory and fo
 
 ## Contributing
 Contributions are welcome and appreciated. To contribute, please fork the repository, make your changes, and submit a pull request. Ensure that your changes are well-documented and follow standard professional guidelines.
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
