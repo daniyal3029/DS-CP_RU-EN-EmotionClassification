@@ -6,6 +6,7 @@ RU-EN Emotion Classification¶ Full NLP Text Classification Assignment Preproces
 * [Project Structure](#project-structure)
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
+* [License](#license)
 
 ## Introduction
 This repository contains a full NLP text classification assignment for RU-EN emotion classification.
