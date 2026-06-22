@@ -26,3 +26,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Badges
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Usage Example
+To use this project, simply clone the repository and navigate to the DataScience-CP directory. From there, you can follow the instructions in the respective files to run the project.
