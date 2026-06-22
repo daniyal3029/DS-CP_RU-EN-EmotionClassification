@@ -7,6 +7,7 @@ RU-EN Emotion Classification¶ Full NLP Text Classification Assignment Preproces
 * [Getting Started](#getting-started)
 * [Contributing](#contributing)
 * [License](#license)
+* [Acknowledgments](#acknowledgments)
 
 ## Introduction
 This repository contains a full NLP text classification assignment for RU-EN emotion classification.
@@ -29,3 +30,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Usage Example
 To use this project, simply clone the repository and navigate to the DataScience-CP directory. From there, you can follow the instructions in the respective files to run the project.
+
+## Acknowledgments
+The authors would like to thank the open-source community for their contributions to the development of this project.
