@@ -36,3 +36,6 @@ The authors would like to thank the open-source community for their contribution
 
 ## Code of Conduct
 This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating, you are expected to uphold this code.
+
+## Installation
+To install the required dependencies, run `pip install -r requirements.txt` in the DataScience-CP directory.
