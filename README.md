@@ -39,3 +39,13 @@ This project adheres to the [Contributor Covenant Code of Conduct](https://www.c
 
 ## Installation
 To install the required dependencies, run `pip install -r requirements.txt` in the DataScience-CP directory.
+
+## Requirements
+The project requires the following dependencies:
+* Python 3.8+
+* pip
+* numpy
+* pandas
+* scikit-learn
+
+Please ensure that these dependencies are installed before running the project.
