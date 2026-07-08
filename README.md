@@ -8,6 +8,9 @@ RU-EN Emotion Classification¶ Full NLP Text Classification Assignment Preproces
 * [Contributing](#contributing)
 * [License](#license)
 * [Acknowledgments](#acknowledgments)
+* [Code of Conduct](#code-of-conduct)
+* [Installation](#installation)
+* [Requirements](#requirements)
 
 ## Introduction
 This repository contains a full NLP text classification assignment for RU-EN emotion classification.
@@ -47,5 +50,10 @@ The project requires the following dependencies:
 * numpy
 * pandas
 * scikit-learn
-
 Please ensure that these dependencies are installed before running the project.
+
+## Troubleshooting
+If you encounter any issues while running the project, please refer to the following steps:
+1. Check that all dependencies are installed correctly.
+2. Verify that the DataScience-CP directory is navigated to correctly.
+3. Ensure that the instructions in the respective files are followed accurately.
