@@ -12,6 +12,8 @@ RU-EN Emotion Classification¶ Full NLP Text Classification Assignment Preproces
 * [Installation](#installation)
 * [Requirements](#requirements)
 * [Contributing Guidelines](#contributing-guidelines)
+* [Usage Example](#usage-example)
+* [Troubleshooting](#troubleshooting)
 
 ## Introduction
 This repository contains a full NLP text classification assignment for RU-EN emotion classification.
@@ -46,6 +48,33 @@ The authors would like to thank the open-source community for their contribution
 
 ## Code of Conduct
 This project adheres to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/). By participating, you are expected to uphold this code.
+
+## Installation
+To install the required dependencies, run `pip install -r requirements.txt` in the DataScience-CP directory.
+
+## Requirements
+The project requires the following dependencies:
+* Python 3.8+
+* pip
+* numpy
+* pandas
+* scikit-learn
+Please ensure that these dependencies are installed before running the project.
+
+## Contributing Guidelines
+When contributing to this repository, please ensure that you:
+* Include a clear and concise commit message
+* Follow standard professional guidelines for code quality and documentation
+* Test your changes thoroughly before submitting a pull request
+
+## Troubleshooting
+If you encounter any issues while running the project, please refer to the following steps:
+1. Check that all dependencies are installed correctly.
+2. Verify that the DataScience-CP directory is navigated to correctly.
+3. Ensure that the instructions in the respective files are followed accurately.
+
+## Usage Example
+To use this project, simply clone the repository and navigate to the DataScience-CP directory. From there, you can follow the instructions in the respective files to run the project.
 
 ## Installation
 To install the required dependencies, run `pip install -r requirements.txt` in the DataScience-CP directory.
