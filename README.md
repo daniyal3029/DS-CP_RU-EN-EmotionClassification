@@ -65,3 +65,6 @@ If you encounter any issues while running the project, please refer to the follo
 1. Check the installation of dependencies.
 2. Verify the project structure and files.
 3. Consult the usage example for guidance on running the project.
+
+## Contributing to the Repository
+If you'd like to contribute to the repository, please ensure you have a GitHub account and are familiar with Git. You can find more information on contributing to open-source projects on the [GitHub Docs](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) page.
