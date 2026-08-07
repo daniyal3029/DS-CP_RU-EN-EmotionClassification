@@ -67,4 +67,4 @@ If you encounter any issues while running the project, please refer to the follo
 3. Consult the usage example for guidance on running the project.
 
 ## Contributing to the Repository
-If you'd like to contribute to the repository, please ensure you have a GitHub account and are familiar with Git. You can find more information on contributing to open-source projects on the [GitHub Docs](https://docs.github.com/en/get-started/quickstart/contributing-to-projects) page.
+If you'd like to contribute to the repository, please ensure you have a GitHub account and are familiar with Git. You can find more information about contributing to this repository in the [Contributing Guidelines](#contributing-guidelines) section.
